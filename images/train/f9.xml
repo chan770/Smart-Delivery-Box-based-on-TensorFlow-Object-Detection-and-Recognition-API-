@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>f9.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\f9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>342</width>
+		<height>192</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>f</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>21</ymin>
+			<xmax>205</xmax>
+			<ymax>181</ymax>
+		</bndbox>
+	</object>
+</annotation>
